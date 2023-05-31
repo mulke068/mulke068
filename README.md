@@ -20,6 +20,7 @@
 ![nuxt](https://img.shields.io/badge/-Nuxt-05134A?style=plastic&logo=nuxtdotjs)
 ![tailwindcss](https://img.shields.io/badge/-Tailwindcss-05134A?style=plastic&logo=tailwindcss)
 ![visualstudiocode](https://img.shields.io/badge/-VSCode-05134A?style=plastic&logo=visualstudiocode)
+![neovim](https://img.shields.io/badge/-NeoVim-05134A?style=plastic&logo=neovim)
 
 <!--
 **mulke068/mulke068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
