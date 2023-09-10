@@ -3,13 +3,15 @@
 ## Langues i use
 ![c++](https://img.shields.io/badge/-C++-05134A?style=flat&logo=cplusplus)
 ![c](https://img.shields.io/badge/-C-05134A?style=flat&logo=c)
+![rust](https://img.shields.io/badge/-Rust-05134A?style=flat&logo=rust)
 ![python](https://img.shields.io/badge/-Python-05134A?style=flat&logo=python)
 ![php](https://img.shields.io/badge/-PHP-05134A?style=flat&logo=PHP)
 ![gnubash](https://img.shields.io/badge/-bash-05134A?style=flat&logo=gnubash)
-![typescript](https://img.shields.io/badge/-TypeScript-05134A?style=flat&logo=typescript)
-![javascript](https://img.shields.io/badge/-JavaScript-05134A?style=flat&logo=javascript)
 ![html](https://img.shields.io/badge/-HTML-05134A?style=flat&logo=html5)
 ![css](https://img.shields.io/badge/-CSS-05134A?style=flat&logo=css3)
+![javascript](https://img.shields.io/badge/-JavaScript-05134A?style=flat&logo=javascript)
+![typescript](https://img.shields.io/badge/-TypeScript-05134A?style=flat&logo=typescript)
+
 ## Tools i use
 ![git](https://img.shields.io/badge/-git-05134A?style=flat-square&logo=git)
 ![dotenv](https://img.shields.io/badge/-dotenv-05134A?style=flat-square&logo=dotenv)
